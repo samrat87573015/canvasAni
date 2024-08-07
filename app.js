@@ -1,6 +1,6 @@
 const frames = {
     currentIndex: 0,
-    maxIndex: 480,
+    maxIndex: 382,
 }
 
 const canvas = document.getElementById('canvas');
